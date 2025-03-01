@@ -1,4 +1,6 @@
-# Only Decoder Transformer pre-training log GPT架构模型预训练过程
+# Only Decoder Transformer pre-training log 
+## 搭建GPT架构模型进行预训练
+> 目的：见证智能涌现
 ### 首次生成 不加embedding嵌入 
 > 生成内容无任何逻辑 且会造字
 - 上文内容: 议：联合国安理会举行乌克兰问题会

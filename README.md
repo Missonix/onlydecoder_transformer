@@ -1,4 +1,4 @@
-# Only Decoder Transformer training log
+# Only Decoder Transformer pre-training log GPT架构模型预训练过程
 ### 首次生成 不加embedding嵌入
 - 上文内容: 议：联合国安理会举行乌克兰问题会
 

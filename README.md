@@ -1,5 +1,5 @@
 # Only Decoder Transformer pre-training log 
-## 搭建GPT架构模型进行预训练
+## 搭建only decoder预训练GPT模型
 > 目的：见证智能涌现
 ### 首次生成 不加embedding嵌入 
 > 生成内容无任何逻辑 且会造字
